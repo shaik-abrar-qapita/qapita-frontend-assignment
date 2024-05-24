@@ -1,0 +1,9 @@
+.grid {
+  /* background-color: aquamarine; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.task-column {
+  padding: 10px;
+}

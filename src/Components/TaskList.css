@@ -1,0 +1,17 @@
+.task-column {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  border: 2px solid black;
+  /* background-color: rgb(223, 231, 231); */
+  min-width: 180px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.task-heading {
+  /* justify-content: center; */
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.task-heading-text {
+  font-size: larger;
+}
