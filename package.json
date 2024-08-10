@@ -5,8 +5,8 @@
   "dependencies": {
     "@ant-design/icons": "^5.3.7",
     "antd": "^5.17.3",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
@@ -14,5 +14,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
   }
 }
