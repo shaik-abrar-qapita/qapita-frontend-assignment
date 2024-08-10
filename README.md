@@ -1,1 +1,1 @@
-### Learning Git branch
+### Learning Git branch merge conflicts resolved
