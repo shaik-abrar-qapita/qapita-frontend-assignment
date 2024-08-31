@@ -1,0 +1,13 @@
+.container {
+  border: 2px solid red;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  display: flex;
+  font-size: larger;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  background-color: rgb(174, 174, 239);
+}
